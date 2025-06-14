@@ -29,12 +29,12 @@ exiftool '-DateTimeOriginal<FileModifyDate' '-CreateDate<FileModifyDate' -r -ove
 ```
 
 ## オプション解説
-- `-DateTimeOriginal<FileModifyDate`： ファイルの変更日を元に写真の撮影日を設定します。
--  `-CreateDate<FileModifyDate`： ファイルの変更日を元に画像の作成日を設定します。
-- `-r`： 再帰的にフォルダ内の全ファイルを処理します。
-- `-overwrite_original`： 元ファイルを上書きし、バックアップファイルを作成- 。
-- `-P`： ファイルの更新日（変更日）を変更しないようにします。
-- `-m`： 軽微な警告（minor warning）が表示されないように- 
+- `-DateTimeOriginal<FileModifyDate`： ファイルの変更日を元に写真の撮影日を設定する
+-  `-CreateDate<FileModifyDate`： ファイルの変更日を元に画像の作成日を設定する
+- `-r`： 再帰的にフォルダ内の全ファイルを処理します
+- `-overwrite_original`： 元ファイルを上書きし、バックアップファイルを作成する
+- `-P`： ファイルの更新日（変更日）を変更しないようにする
+- `-m`： 軽微な警告（minor warning）が表示されないようにする
 
 ## メモ
 mp4, mov にも有効だった
