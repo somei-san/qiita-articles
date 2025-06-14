@@ -1,14 +1,14 @@
 ---
 title: Mac OS にて画像のメタデータの作成日を変更日で上書きしたい
 tags:
-  - 'tips'
-  - 'Mac'
-private: false # true: 限定共有記事 / false: 公開記事
-updated_at: '' # 記事を投稿した際に自動的に記事の更新日時に変わります
-id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
-organization_url_name: null # 関連付けるOrganizationのURL名
-slide: false # true: スライドモードON / false: スライドモードOFF
-ignorePublish: false # true: `publish`コマンドにおいて無視されます（Qiitaに投稿されません） / false: `publish` コマンドで処理されます（Qiitaに投稿されます）
+  - Mac
+  - tips
+private: false
+updated_at: '2025-06-14T21:47:19+09:00'
+id: 4d70e5599e196c4eb608
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
 
 # 背景
