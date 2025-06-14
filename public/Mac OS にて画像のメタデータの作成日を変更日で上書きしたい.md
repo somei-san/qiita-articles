@@ -14,9 +14,16 @@ ignorePublish: true # true: `publish`コマンドにおいて無視されます�
 ios 上での表示順は作成日に準拠するが、DropBoxなどを経由して Mac に保存すると同期日が作成日になり、順番がめちゃくちゃになるのをどうにかしたい
 
 
-# 結論
-画像のおいてあるディレクトリで以下のコマンドを実行する
-```shell
+# 手順
+
+## ExifTool をインストールする
+
+```sh
+brew install exiftool
+```
+
+## 画像のおいてあるディレクトリで以下のコマンドを実行する
+```sh
 exiftool '-DateTimeOriginal<FileModifyDate' '-CreateDate<FileModifyDate' -r -overwrite_original -P -m .
 ```
 
