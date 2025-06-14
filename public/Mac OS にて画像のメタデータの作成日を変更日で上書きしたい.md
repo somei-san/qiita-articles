@@ -4,7 +4,7 @@ tags:
   - Mac
   - tips
 private: false
-updated_at: '2025-06-14T21:47:19+09:00'
+updated_at: '2025-06-14T21:51:27+09:00'
 id: 4d70e5599e196c4eb608
 organization_url_name: null
 slide: false
