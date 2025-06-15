@@ -8,7 +8,7 @@ updated_at: ''
 id: null
 organization_url_name: null
 slide: false
-ignorePublish: true
+ignorePublish: false
 ---
 
 ## 背景
@@ -30,16 +30,18 @@ slack://app?team={TEAM_ID}&id={APP_ID}
 
 __TEAM_ID__ はワークスペースの識別子で、Slack URL の冒頭部分から確認できる
 
-例： `https://sample-workspace.slack.com/` → `sample-workspace.`
+例： `https://sample-workspace.slack.com/`
+→ `sample-workspace`
 
 __APP_ID__ はアプリの識別子で、Slackアプリの Marketplace URL から確認できる
 
-例: `https://sample-workspace.slack.com/marketplace/B05XYZH4XGX--sample-app` → `B05XYZH4XGX`
+例: `https://sample-workspace.slack.com/marketplace/B05XYZH4XGX--sample-app`
+→ `B05XYZH4XGX`
 
 上記の例に基づくと、以下のようになる
 
 ```
-slack://app?team={sample-workspace}&id={B05XYZH4XGX}
+slack://app?team=sample-workspace&id=B05XYZH4XGX
 ```
 
 ## 補足
