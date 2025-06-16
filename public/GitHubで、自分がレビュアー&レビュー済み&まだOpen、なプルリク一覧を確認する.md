@@ -1,5 +1,5 @@
 ---
-title: GitHubで、自分にレビュー依頼されている & 自分がレビュー済み & まだOpen、なプルリク一覧をみる
+title: GitHubで、自分がレビュアー&レビュー済み&まだOpen、なプルリク一覧を確認する
 tags:
   - 'tips'
   - 'GitHub'
