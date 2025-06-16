@@ -1,11 +1,11 @@
 ---
 title: GitHubで、自分がレビュアー&レビュー済み&まだOpen、なプルリク一覧を確認する
 tags:
-  - 'tips'
-  - 'GitHub'
+  - GitHub
+  - tips
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-06-16T13:02:17+09:00'
+id: 486bc4ffe9467a01ad36
 organization_url_name: null
 slide: false
 ignorePublish: false
