@@ -22,7 +22,7 @@ is:open is:pr reviewed-by:@me -author:@me
 
 # 背景
 
-GitHubデフォルトの[Review Request](https://github.com/pulls?q=is%3Aopen+is%3Apr+review-requested%3A%40me+archived%3Afalse+)では、レビューをしちゃうと消えちゃって確認できなくなるので
+GitHubデフォルトの[Review Request](https://github.com/pulls/review-requested)では、レビューをしちゃうと消えちゃって確認できなくなるので
 
 
 
