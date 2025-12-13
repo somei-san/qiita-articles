@@ -11,7 +11,7 @@
 
 ### publish条件
 
-- ./public 配下に差分があったらCIが回ります
+- `./public`配下に差分があったらCIが回ります
 - Front Matterの`ignorePublish`が`false`ならpublish対象になります
 - Qiita側の記事と差分がなければpublishされません
 
