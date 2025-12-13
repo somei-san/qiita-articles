@@ -1,7 +1,7 @@
-# Qiita の記事
+# Qiitaの記事です
 
-- [アカウント Home](https://qiita.com/goyaYellow)
-- [この Repository](https://github.com/somei-san/qiita-articles)
+- [アカウントのHome](https://qiita.com/goyaYellow)
+- [このRepository](https://github.com/somei-san/qiita-articles)
 
 # 設定
 
