@@ -5,7 +5,7 @@
 
 # 設定
 
-## GithubActionsによる自動Publish
+## GitHub Actionsによる自動publish
 
 [actionsファイル](.github/workflows/publish.yml)
 
