@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - "articles/**"
+      - "public/**"
   workflow_dispatch:
 
 permissions:
@@ -28,5 +28,3 @@ jobs:
         with:
           qiita-token: ${{ secrets.QIITA_TOKEN }}
           root: "."
-          # articles配下のmdだけをpublish対象にする
-          include: "articles/**/*.md"
