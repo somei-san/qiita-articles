@@ -9,12 +9,14 @@
 
 [actionsファイル](.github/workflows/publish.yml)
 
+./public 配下に差分があったらCIが回ります
+
 # 個人的備忘
 
 ## 新しく記事を書き始める
 
 ```shell
-npx qiita publish draft/記事のファイルのベース名
+npx qiita publish 記事のファイルのベース名
 ```
 
 ## プレビューする
